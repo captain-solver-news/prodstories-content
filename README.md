@@ -22,11 +22,11 @@ Verify:
 npx skills list
 ```
 
-You should see 9 project skills, all resolving to `./.agents/skills/`.
+You should see 10 project skills, all resolving to `./.agents/skills/`.
 
 ## Installed skills
 
-All 9 come from `[coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)`.
+All 10 come from `[coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)`.
 
 
 | Stage          | Skill               | Version | What it covers                                                    |
@@ -37,6 +37,7 @@ All 9 come from `[coreyhaines31/marketingskills](https://github.com/coreyhaines3
 | **Optimize**   | `seo-audit`         | 2.0.1   | Technical and on-page SEO diagnosis                               |
 |                | `schema`            | 2.0.0   | Structured data and rich results                                  |
 |                | `ai-seo`            | 2.5.0   | Getting cited by LLMs and AI search engines                       |
+|                | `copy-editing`      | 2.0.0   | Seven-sweep editing of existing copy, content refresh             |
 | **Distribute** | `social`            | 2.2.0   | Social posts, repurposing, short-form video                       |
 | **Scale**      | `programmatic-seo`  | 2.0.0   | Templated pages generated at scale                                |
 |                | `free-tools`        | 2.0.1   | Free calculators and generators as a marketing channel            |
