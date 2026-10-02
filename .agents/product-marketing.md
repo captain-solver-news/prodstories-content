@@ -197,7 +197,7 @@ same subcategory, or the blog's search baseline never starts compounding.
 native audience: prefer short sentences and concrete nouns over clever idiom.
 Consistency of voice across all bylines matters more than individual flair.
 - **Never:** "In today's fast-paced world", "game-changer", "unlock the power of",
-"dive deep", AI-slop transitions, invented statistics.
+"dive deep", "X, not Y", AI-slop transitions, invented statistics.
 
 ---
 
