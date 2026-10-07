@@ -25,6 +25,12 @@
       "skillPath": "skills/copywriting/SKILL.md",
       "computedHash": "779f05c8be67da475e6a7af78de3e0400b0038e371ce898dd6ff9d3331aab7db"
     },
+    "csn-review": {
+      "source": "captain-solver-news/skills",
+      "sourceType": "github",
+      "skillPath": "csn-review/SKILL.md",
+      "computedHash": "ee1293d7fc30e397bcef200936842047f59f4e27d7366dc8c541dd82b6b41d62"
+    },
     "free-tools": {
       "source": "coreyhaines31/marketingskills",
       "sourceType": "github",
